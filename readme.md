@@ -1,118 +1,91 @@
-# Arcane Breaker - Jeu de Cartes en Ligne
+# Arcane Breaker - Jeu de Cartes Stratégique
 
-Arcane Breaker est un jeu de cartes en ligne où les joueurs s'affrontent en utilisant des cartes représentant des personnages et des capacités spéciales. Le but est de réduire les points de vie de l'arcane de l'adversaire à zéro tout en protégeant la sienne. Le jeu propose une expérience stratégique avec des cartes à collectionner et un gameplay engageant.
+**Arcane Breaker** est un jeu de cartes en ligne où les joueurs s'affrontent dans un duel stratégique en utilisant des cartes représentant des personnages, des attaques, des capacités spéciales, et des rôles uniques. Le but du jeu est de réduire les **points de vie** (PV) de l'arcane de l'adversaire à zéro tout en protégeant la vôtre. Chaque joueur compose son deck, choisit son rôle, et utilise des cartes à la fois pour attaquer et se défendre. Préparez-vous à plonger dans l'univers d'**Arcane Breaker** et à tester vos stratégies pour devenir le meilleur !
+
+---
+
+## Gameplay
+
+Le jeu se déroule en plusieurs **étapes** et est basé sur une **compétition stratégique** où les joueurs utilisent leurs cartes à bon escient. Voici les règles principales du jeu :
+
+### 1. **Composer votre Deck**
+Avant de commencer une partie, chaque joueur crée son propre **deck**. Ce deck contient des cartes représentant différents personnages, attaques et capacités spéciales. Les cartes ont des statistiques de base comme les **points de vie**, l'**attaque**, et la **défense**, mais elles peuvent aussi inclure des capacités spéciales uniques.
+
+- **Personnages** : Ces cartes représentent des héros ou personnages clés. Ils ont des caractéristiques comme la force d'attaque et les points de vie.
+- **Attaques** : Utilisées pour infliger des dégâts à l'arcane adverse.
+- **Défenses** : Permet de protéger son arcane et de réduire les dégâts des attaques ennemies.
+- **Capacités spéciales** : Ces cartes peuvent changer le cours du jeu, par exemple en infligeant des effets de statut (poison, paralysie) ou en renforçant l'attaque/défense.
+
+### 2. **Choisir votre Rôle**
+Chaque partie oppose deux joueurs avec des **rôles différents**. Un joueur incarne l'**attaquant**, tandis que l'autre joue le rôle du **défenseur**.
+
+- **Attaquant** : Son objectif principal est de réduire les PV de l'arcane de l'adversaire à zéro en attaquant avec ses cartes.
+- **Défenseur** : Il doit protéger son arcane en utilisant des cartes de défense et en anticipant les attaques ennemies.
+
+### 3. **Tour de Jeu**
+Le jeu se joue en **tours successifs** où chaque joueur choisit une carte de son deck à jouer. Ces cartes peuvent être utilisées pour attaquer, défendre, ou pour appliquer des effets spéciaux.
+
+- **Attaquer** : Le joueur utilise une carte d'attaque pour infliger des dégâts à l'arcane de l'adversaire.
+- **Défendre** : Si un joueur choisit une carte de défense, il bloque une partie ou la totalité des dégâts d'une attaque.
+- **Stratégie** : Les joueurs doivent décider quand attaquer et quand se défendre, en fonction des cartes disponibles et de la situation du jeu.
+
+Les joueurs peuvent également utiliser des **capacités spéciales** pour inverser le cours du jeu, par exemple en augmentant leur défense ou en infligeant des effets négatifs à l'adversaire.
+
+### 4. **Gagner la Partie**
+Pour gagner, un joueur doit **réduire les points de vie** de l'arcane de son adversaire à zéro. Cela se fait par une combinaison de bonnes stratégies d'attaque, de défense et de gestion de cartes.
+
+- **Arcane** : Chaque joueur possède une "arcane", qui est la représentation de ses points de vie dans le jeu.
+- Lorsqu'un joueur réussit à réduire l'arcane adverse à zéro, il remporte la partie.
+
+### 5. **Interaction avec le Jeu**
+Le jeu inclut un **mode multijoueur** où les joueurs peuvent s'affronter en ligne. Ils peuvent également interagir dans une **boutique** pour acheter de nouvelles cartes et ainsi améliorer leur deck.
+
+---
+
+## Règles du Jeu
+
+### **Règle 1 : Composer votre Deck**
+- Avant chaque match, vous devez créer un deck avec des cartes sélectionnées parmi celles que vous possédez.
+- Un deck peut contenir un nombre limité de cartes (par exemple, 30 cartes par deck).
+- Assurez-vous d'avoir un bon équilibre entre les cartes d'attaque, de défense et de capacités spéciales pour maximiser vos chances de succès.
+
+### **Règle 2 : Choisir un Rôle**
+- L'un des joueurs sera l'attaquant, l'autre le défenseur. L'attaquant essaiera de réduire les PV de l'arcane de l'adversaire à zéro, tandis que le défenseur protégera son arcane à l'aide de cartes de défense.
+
+### **Règle 3 : Jouer à Tour de Rôle**
+- Les joueurs jouent chacun leur tour. À chaque tour, vous choisissez une carte à jouer. Vous pouvez choisir une carte d'attaque, de défense ou une capacité spéciale, selon la situation.
+
+### **Règle 4 : Gagner la Partie**
+- Le but ultime est de réduire les PV de l'arcane de votre adversaire à zéro. Vous devez utiliser vos cartes avec sagesse pour équilibrer attaque et défense et enfin remporter la victoire.
+
+### **Exemple de Tour de Jeu :**
+1. **Attaquant** : Le joueur choisit une carte d'attaque et inflige des dégâts à l'arcane de son adversaire.
+2. **Défenseur** : Le joueur utilise une carte de défense pour bloquer une partie des dégâts.
+3. Le tour continue avec les deux joueurs prenant des décisions stratégiques pour maximiser leurs chances de victoire.
+
+---
+
+## Cartes Disponibles
+
+Les cartes du jeu sont classées en plusieurs catégories :
+- **Cartes Personnage** : Chaque personnage a des statistiques de points de vie, d'attaque et de défense. Certaines cartes de personnages peuvent avoir des capacités spéciales uniques qui peuvent changer le cours du jeu.
+- **Cartes Attaque** : Ces cartes permettent d'infliger des dégâts directs à l'arcane de l'adversaire.
+- **Cartes Défense** : Utilisées pour protéger votre arcane contre les attaques.
+- **Cartes Capacités Spéciales** : Ces cartes offrent des effets spéciaux, comme augmenter l'attaque, guérir des PV, ou infliger des effets négatifs à l'adversaire.
 
 ---
 
 ## Fonctionnalités
 
-- **Création de Deck** : Les joueurs peuvent composer leur propre deck avec des cartes représentant des personnages, des attaques et des capacités spéciales.
-- **Affrontement** : Le jeu se joue entre deux rôles, l'attaquant et le défenseur, qui choisissent des cartes à jouer pendant leur tour.
-- **Boutique** : Les joueurs peuvent acheter de nouvelles cartes pour enrichir leur collection.
-- **Interface Profil** : Les utilisateurs peuvent gérer leur profil, changer leur photo de profil, et voir leur historique de jeu.
-- **Règles du Jeu** : Des règles claires sont expliquées pour apprendre à jouer et maîtriser les stratégies.
-  
----
-
-## Installation
-
-### Prérequis
-
-- PHP 7.4 ou supérieur
-- Serveur web (Apache/Nginx) avec support PHP
-- Base de données MySQL ou MariaDB
-- Serveur local (ex: XAMPP, WAMP) ou un hébergement en ligne
-
-### Étapes d'installation
-
-1. **Cloner le dépôt**
-
-   Clone ce dépôt dans le répertoire de ton serveur local ou de ton hébergement.
-
-   ```bash
-   git clone https://github.com/ton-utilisateur/Arcane-LOL-App.git
-   cd arcane-breaker
-   ```
-
-2. **Configurer la base de données**
-
-   Crée une base de données MySQL/MariaDB et utilise le fichier `arcane_breaker.sql` pour créer les tables nécessaires.
-
-   Exemple de commande MySQL :
-
-   ```sql
-   CREATE DATABASE arcane_breaker;
-   USE arcane_breaker;
-   SOURCE db.sql;
-   ```
-
-3. **Configurer la connexion à la base de données**
-
-   Dans le fichier `db_connect.php`, modifie les informations de connexion (utilisateur, mot de passe, hôte) en fonction de ta configuration.
-
-   ```php
-   <?php
-   $host = 'localhost'; // Hôte de la base de données
-   $dbname = 'arcane_breaker'; // Nom de la base de données
-   $username = 'root'; // Utilisateur MySQL
-   $password = ''; // Mot de passe MySQL
-   ```
-
-4. **Démarrer le serveur**
-
-   Si tu utilises un serveur local comme XAMPP, démarre Apache et MySQL. Si tu utilises un hébergement distant, déploie les fichiers sur ton serveur.
+- **Création de Deck** : Créez et personnalisez votre propre deck de cartes avant de commencer un match.
+- **Affrontement Multijoueur** : Affrontez d'autres joueurs en ligne dans des matchs stratégiques.
+- **Boutique** : Achetez de nouvelles cartes pour améliorer votre deck.
+- **Profil Utilisateur** : Gérez votre profil, consultez vos statistiques de jeu et votre collection de cartes.
 
 ---
 
-## Utilisation
+## Conclusion
 
-### Se connecter
-
-- Si tu n'as pas de compte, tu peux t'inscrire en cliquant sur **"S'inscrire"** depuis la page d'accueil.
-- Si tu as déjà un compte, tu peux te connecter en utilisant tes identifiants.
-
-### Jouer
-
-1. **Créer un Deck** : Allez dans la section "Deck" pour composer un deck de cartes.
-2. **Lancer une Partie** : Une fois ton deck prêt, tu peux commencer une partie en cliquant sur "Jouer".
-3. **Acheter des Cartes** : Accède à la boutique pour acheter de nouvelles cartes et améliorer ton deck.
-
+**Arcane Breaker** offre une expérience de jeu captivante où chaque carte compte. Que vous soyez un joueur offensif cherchant à attaquer sans relâche ou un défenseur rusé protégeant son arcane, chaque partie propose de nouvelles stratégies et une grande variété de cartes à collectionner. Préparez-vous à plonger dans l'univers de **Arcane Breaker** et à devenir un maître du jeu de cartes !
 ---
-
-## Technologies utilisées
-
-- **Frontend** :
-  - HTML5
-  - CSS3 (pour le style)
-  - JavaScript (pour les interactions, gestion du jeu)
-  
-- **Backend** :
-  - PHP (pour la gestion des utilisateurs, des sessions, et des requêtes)
-  - PDO pour la connexion à la base de données
-
-- **Base de données** :
-  - MySQL ou MariaDB
-
----
-
-## Contribuer
-
-1. Fork ce projet.
-2. Crée une branche pour ta fonctionnalité (`git checkout -b ma-fonctionnalite`).
-3. Commit tes modifications (`git commit -am 'Ajoute une nouvelle fonctionnalité'`).
-4. Push vers ta branche (`git push origin ma-fonctionnalite`).
-5. Crée une pull request.
-
----
-
-### Notes supplémentaires :
-
-- **Sécurisation des sessions utilisateur** : Le projet utilise `PHP sessions` pour gérer l'état de connexion de l'utilisateur.
-- **Accessibilité** : Veuillez assurer que votre serveur supporte les fichiers PHP et les connexions à une base de données.
-
----
-## Crédits
-
-- **Développeur principal** : CAFFENNE--GROSJEAN Hugo Alias : Souyakoff
-
----
+**Auteur** : CAFFENNE--GROSJEAN Hugo **Alias** : Souyakoff
