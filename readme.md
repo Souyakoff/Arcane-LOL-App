@@ -67,11 +67,7 @@ Le jeu inclut un **mode multijoueur** où les joueurs peuvent s'affronter en lig
 
 ## Cartes Disponibles
 
-Les cartes du jeu sont classées en plusieurs catégories :
-- **Cartes Personnage** : Chaque personnage a des statistiques de points de vie, d'attaque et de défense. Certaines cartes de personnages peuvent avoir des capacités spéciales uniques qui peuvent changer le cours du jeu.
-- **Cartes Attaque** : Ces cartes permettent d'infliger des dégâts directs à l'arcane de l'adversaire.
-- **Cartes Défense** : Utilisées pour protéger votre arcane contre les attaques.
-- **Cartes Capacités Spéciales** : Ces cartes offrent des effets spéciaux, comme augmenter l'attaque, guérir des PV, ou infliger des effets négatifs à l'adversaire.
+Jouer tous les personnages les plus iconiques de la series **Arcane**  
 
 ---
 
