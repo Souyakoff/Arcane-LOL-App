@@ -1,4 +1,4 @@
-# Arcane Breaker - Jeu de Cartes Stratégique
+# Arcane Breaker
 
 **Arcane Breaker** est un jeu de cartes en ligne où les joueurs s'affrontent dans un duel stratégique en utilisant des cartes représentant des personnages, des attaques, des capacités spéciales, et des rôles uniques. Le but du jeu est de réduire les **points de vie** (PV) de l'arcane de l'adversaire à zéro tout en protégeant la vôtre. Chaque joueur compose son deck, choisit son rôle, et utilise des cartes à la fois pour attaquer et se défendre. Préparez-vous à plonger dans l'univers d'**Arcane Breaker** et à tester vos stratégies pour devenir le meilleur !
 
