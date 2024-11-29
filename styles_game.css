@@ -1,0 +1,121 @@
+/* Section de jeu */
+main {
+    text-align: center;
+    padding: 20px;
+    height: calc(100vh - 100px); /* Remplir toute la hauteur de la page */
+    overflow-y: auto; /* Permet le défilement si nécessaire */
+}
+
+.player-deck {
+    margin-bottom: 30px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 150px;
+    margin: 10px;
+    background-color: #16213e;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card-front img {
+    width: 100%;
+    height: auto;
+}
+
+.card-back p {
+    padding: 10px;
+}
+
+/* Boutons de jeu */
+button {
+    background-color: #e94560;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #16213e;
+}
+
+/* Section de statut du jeu */
+.game-status {
+    margin-top: 30px;
+}
+
+.game-status p {
+    font-weight: bold;
+}
+
+/* Interface de l'ennemi (Bot) */
+.enemy-info {
+    margin-top: 30px;
+    background-color: #eaeaea;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.enemy-info h2 {
+    margin-top: 0;
+    font-size: 1.6rem;
+}
+
+.enemy-info p {
+    font-size: 1.2rem;
+}
+
+/* Style des icônes d'attaque/défense */
+.icon {
+    font-size: 2rem;
+    color: #333;
+    margin: 0 10px;
+}
+
+.icon.attack {
+    color: red;
+}
+
+.icon.defense {
+    color: green;
+}
+
+/* Section de fin de jeu */
+.end-game {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 1.5rem;
+}
+
+.end-game button {
+    margin-top: 20px;
+    background-color: #e74c3c;
+    border: none;
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.end-game button:hover {
+    background-color: #c0392b;
+}

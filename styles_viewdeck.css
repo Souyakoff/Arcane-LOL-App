@@ -1,0 +1,68 @@
+/* Container pour les cartes */
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.card-list {
+    list-style: none;
+    padding: 0;
+}
+
+.card-item {
+    perspective: 1000px; /* Donne une profondeur pour l'effet 3D */
+    width: 250px;
+    height: 350px;
+}
+
+.card {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transform-style: preserve-3d;
+    transition: transform 0.6s; /* Transition pour l'effet de retournement */
+}
+
+.card:hover {
+    transform: rotateY(180deg); /* Effet de retournement sur hover */
+}
+
+/* Face avant de la carte */
+.card-front {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Face arrière de la carte */
+.card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    color: black;
+    transform: rotateY(180deg); /* La face arrière commence cachée */
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.card-back h4 {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+.card-back p {
+    margin: 5px 0;
+    font-size: 1em;
+}
