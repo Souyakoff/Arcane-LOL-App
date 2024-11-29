@@ -84,5 +84,5 @@ Jouer tous les personnages les plus iconiques de la series **Arcane**
 
 **Arcane Breaker** offre une expérience de jeu captivante où chaque carte compte. Que vous soyez un joueur offensif cherchant à attaquer sans relâche ou un défenseur rusé protégeant son arcane, chaque partie propose de nouvelles stratégies et une grande variété de cartes à collectionner. Préparez-vous à plonger dans l'univers de **Arcane Breaker** et à devenir un maître du jeu de cartes !
 ---
-**Auteur** : CAFFENNE--GROSJEAN Hugo 
-**Alias** : Souyakoff
+- **Auteur** : CAFFENNE--GROSJEAN Hugo 
+- **Alias** : Souyakoff
