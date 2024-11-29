@@ -65,7 +65,7 @@ Le jeu inclut un **mode multijoueur** où les joueurs peuvent s'affronter en lig
 
 ---
 
-## Cartes Disponibles
+## Champions Disponibles
 
 Jouer tous les personnages les plus iconiques de la series **Arcane**  
 
