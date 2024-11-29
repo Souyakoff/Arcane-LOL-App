@@ -105,17 +105,14 @@ Arcane Breaker est un jeu de cartes en ligne où les joueurs s'affrontent en uti
 
 ---
 
-## Crédits
-
-- **Développeur principal** : [Ton nom ou ton pseudonyme]
-- **Design des cartes et illustrations** : [Nom des contributeurs ou sources des images utilisées]
-
----
-
-
 ### Notes supplémentaires :
 
 - **Sécurisation des sessions utilisateur** : Le projet utilise `PHP sessions` pour gérer l'état de connexion de l'utilisateur.
 - **Accessibilité** : Veuillez assurer que votre serveur supporte les fichiers PHP et les connexions à une base de données.
+
+---
+## Crédits
+
+- **Développeur principal** : CAFFENNE--GROSJEAN Hugo Alias : Souyakoff
 
 ---
